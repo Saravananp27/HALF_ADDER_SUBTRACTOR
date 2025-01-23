@@ -1,6 +1,6 @@
 # HALF_ADDER_SUBTRACTOR
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+Implementation-of-Half-Adder-and-Half Subtractor-circui
 
 **AIM:**
 
